@@ -1,12 +1,3 @@
-## Hi there 👋
+# The Program
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Energy INsights is an Indiana Economic Development Corporation (IEDC) sponsored program to deploy smart manufacturing starter kits to Indiana’s small-medium manufacturers. Participants will receive a scalable hardware and software package, a hands-on learning experience and engineering services to help them create quantifiably valuable manufacturing insights. By participating, manufacturers can save 5-15% of their electric bill. Moving forward companies can continue to utilize the best in class hardware and software from their starter toolkit in other smart manufacturing use cases
